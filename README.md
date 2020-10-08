@@ -1,5 +1,5 @@
 # pdf2mldata
-This tool can extract text with and with and without highlights from PDF documents. Thus simple and easy to do annotations in PDF documents can be used to create binary labeled data.
+This tool can extract text with and without highlights from PDF documents. Thus simple and easy to do annotations in PDF documents can be used to create binary labeled data.
 
 
 ## Example
@@ -30,7 +30,6 @@ Extracting data from [data.pdf](doc/data.pdf) gives the following output. Notice
       678.308
     ]
   },
-  ...
 ```
 
 This can be loaded into a Pandas DataFrame as follows:
